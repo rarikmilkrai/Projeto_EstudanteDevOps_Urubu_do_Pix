@@ -10,14 +10,27 @@ Este repositório contém o código-fonte e recursos relacionados à aula "Urubu
 
 O objetivo desta aula é proporcionar uma introdução prática à programação em Python, abordando os seguintes conceitos:
 
-- Entrada e Saída de Dados em Python.
-- Estruturas Condicionais (if-else) para tomada de decisão.
-- Laços de Repetição (while) para criar interações com o usuário.
-- Funções em Python para organizar o código.
-- Geração aleatória de tokens.
-- Exibição de informações formatadas na tela.
+- Dicionário: O uso do dicionário tabela_trading para mapear valores de investimento para retornos é um exemplo de uso de estrutura de dados.
 
-Ao final desta aula, os alunos devem ser capazes de criar um programa simples que simula um sistema de PIX, permitindo que o usuário escolha um valor de investimento e receba um token aleatório junto com uma mensagem de agradecimento. Além disso, o programa exibe uma tabela de trading com diferentes opções de investimento e retornos.
+- Funções: As funções gerar_token, fazer_pix, e exibir_tabela são usadas para organizar o código em blocos reutilizáveis e facilitar a leitura e manutenção do código.
+
+- Geração Aleatória: A função gerar_token utiliza a biblioteca random para criar um token aleatório, demonstrando o uso de geração aleatória.
+
+- Estrutura Condicional (if-else): O uso de if e else na função fazer_pix para verificar se o valor de investimento está na tabela e lidar com valores inválidos é um exemplo de estrutura condicional.
+
+- Entrada e Saída de Dados: O código utiliza input para receber entradas do usuário e print para exibir saídas na tela.
+
+- Manipulação de Strings: A concatenação de strings é usada para criar a mensagem que inclui o token, valor de investimento e retorno.
+
+- Laço de Repetição (while): O uso de um loop while permite que o programa continue executando até que o usuário escolha sair.
+
+- Tratamento de Exceções (try-except): Um bloco try-except é usado para lidar com exceções que podem ocorrer, como quando o usuário insere um valor inválido.
+
+- Exibição de Mensagens: O código fornece mensagens informativas ao usuário, como agradecimento e instruções após a confirmação do PIX.
+
+- Menu Interativo: O código apresenta um menu interativo ao usuário, permitindo que ele escolha fazer outro PIX ou sair do programa.
+
+Ao final desta aula, os alunos devem ser capazes de criar um programa simples permitindo que o usuário escolha um valor de investimento e receba um token aleatório junto com uma mensagem de agradecimento. Além disso, o programa exibe uma tabela de trading com diferentes opções de investimento e retornos.
 
 ## Conteúdo
 
