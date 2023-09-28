@@ -21,7 +21,7 @@ Ao final desta aula, os alunos devem ser capazes de criar um programa simples qu
 
 ## Conteúdo
 
-- [Código-fonte Python](main.py)
+- [Código-fonte Python](Urubudopix.py)
 
 ## Requisitos
 
