@@ -1,5 +1,16 @@
+
 # Projeto_EstudanteDevOps_Urubu_do_Pix
 O objetivo desta aula é proporcionar uma introdução prática à programação em Python, abordando alguns conceitos descritos no Readme.md
+
+
+                    _    _   _____    _    _   ____    _    _     _____     ____      _____    _____  __   __
+                     | |  | | |  __ \\  | |  | | |  _ \\  | |  | |   |  __ \\   / __ \\    |  __ \\  |_   _| \\ \\ / /
+                     | |  | | | |__) | | |  | | | |_) | | |  | |   | |  | | | |  | |   | |__) |   | |    \\ V / 
+                     | |  | | |  _  /  | |  | | |  _ <  | |  | |   | |  | | | |  | |   |  ___/    | |     > <  
+                     | |__| | | | \\ \\  | |__| | | |_) | | |__| |   | |__| | | |__| |   | |       _| |_   / . \\ 
+                      \\____/  |_|  \\_\\  \\____/  |____/   \\____/    |_____/   \\____/    |_|      |_____| /_/ \\_\\
+                      
+
 
 
 # Urubu do PIX - Aula de Programação em Python
@@ -39,6 +50,9 @@ Ao final desta aula, os alunos devem ser capazes de criar um programa simples pe
 ## Requisitos
 
 Para executar o programa, você precisa ter o Python instalado em seu sistema. Você pode baixar o Python em [python.org](https://www.python.org/downloads/).
+Você pode usar a IDE que for da sua preferência, eu vou usar o PYCHARM mas voce pode baixar o VSCODE:
+- Para baixar o Pycharm: [JetBrains](https://www.jetbrains.com/pt-br/pycharm/).
+- Para baixar o VSCODE: [VisualStudio](https://code.visualstudio.com/download).
 
 ## Instruções de Uso
 
