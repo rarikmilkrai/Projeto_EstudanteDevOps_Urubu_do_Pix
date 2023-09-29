@@ -59,4 +59,4 @@ Você pode usar a IDE que for da sua preferência, eu vou usar o PYCHARM mas voc
 1. Clone este repositório em sua máquina local:
 
 ```shell
-git clone https://github.com/seu-usuario/urubu-do-pix-aula.git
+git clone git@github.com:rarikmilkrai/Projeto_EstudanteDevOps_Urubu_do_Pix.git
