@@ -13,6 +13,9 @@ O objetivo desta aula é proporcionar uma introdução prática à programação
 
 
 
+![Urubivél do PIX](jc2s6afwn37a1.jpg)
+
+
 # Urubu do PIX - Aula de Programação em Python
 
 Este repositório contém o código-fonte e recursos relacionados à aula "Urubu do PIX" onde aprenderemos conceitos básicos de programação em Python, incluindo entrada e saída de dados, estruturas condicionais, loops e funções.
